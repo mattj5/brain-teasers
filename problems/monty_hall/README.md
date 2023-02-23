@@ -10,6 +10,7 @@ https://en.wikipedia.org/wiki/Monty_Hall_problem
 * Biased Monty Hall problem where the host always picks the right-most goat what is the new probability?
 * The host opens a door and makes the offer to switch 100% of the time if the contestant initially picked the car, and 50% the time otherwise.
 * Door is revealed randomly independent of the car being behind the first door chosen.
+* Host is allowed open the door at a variable rate, find the updated probability of strategies.
 
 ## Variant: Similar problems
 * N doors and {1,...,N-2} goats shown.
